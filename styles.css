@@ -1,0 +1,59 @@
+
+/* BAckground color */
+body{
+  background-color: #E4F9F5;
+  margin: 0;
+  text-align: left;
+  font-family: 'Merriweather' ,  serif;
+  font-size: 1em;
+  align-content: center ;
+}
+
+/* Heading */
+h1 {
+  font-size: 6rem;
+  color: #66BFBF;
+  text-align: center;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+
+}
+
+
+.button{
+  margin-left: auto;
+
+}
+.smallbut1{
+margin-left: auto;
+color: red;
+background-color: blue;
+}
+.return{
+  color: blue;
+  background-color: red;
+  
+}
+
+.para1 {
+  text-align: center;
+  font-family: Monstarrat, sans-serif;
+  font-size: 20px;
+}
+
+.spice {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.imgtext{
+  text-align: center;
+  font-family: serif;
+  font-size: 18px;
+
+}
+.spice1 {
+    display: block;
+    margin: 0 auto;
+}

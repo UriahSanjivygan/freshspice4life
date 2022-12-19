@@ -1,0 +1,103 @@
+
+/* BAckground color */
+body{
+  background-color: lightgreen;
+  margin: 0;
+  text-align: left;
+  font-family: 'Merriweather' ,  serif;
+  font-size: 1em;
+  align-content: center ;
+}
+
+/* Heading */
+h1 {
+  color: #66BFBF;
+  text-align: center;
+  margin: 30px auto 0 auto;
+  font-family: 'Montserrat-Black';
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+h1:hover{
+  color: red;
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 6rem;
+  color: #66BFBF;
+  text-align: center;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+}
+
+h3 {
+  font-size: 6rem;
+  color: #66BFBF;
+  text-align: center;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+}
+
+.tophead{
+  color: darkred;
+}
+
+.button{
+  margin-left: auto;
+
+}
+.smallbut1{
+margin-left: auto;
+color: red;
+background-color: blue;
+}
+.return{
+  color: blue;
+  background-color: red;
+
+}
+
+.para1 {
+  text-align: center;
+  font-family: Monstarrat, sans-serif;
+  font-size: 20px;
+}
+
+.para2 {
+  text-align: center;
+  font-family: Monstarrat, sans-serif;
+  font-size: 20px;
+}
+
+.spice {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 50px;
+
+}
+
+.imgtext{
+  text-align: center;
+  font-family: serif;
+  font-size: 18px;
+
+}
+.spice1 {
+    position: absolute;
+    padding-top: 10px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.return {
+  position: absolute;
+  right: 20px;
+  color: #fff;
+}
